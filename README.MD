@@ -9,3 +9,5 @@ Esto es una prueba para conectar un repositorio local con uno remoto
 8. Pusheamos nuestros cambios con git push -u origin <nombre rama>
 9. Conectamos el repositorio local con el remoto
 	git remote add origin https://github.com/alexlzn93/testgit.git
+
+Creo una nueva rama "uat" con git checkout -b uat
